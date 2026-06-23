@@ -57,7 +57,7 @@
 - Integrated NVIDIA's LLaMA 3.1 API for complaint processing
 - Full-stack: HTML/CSS/JS frontend + Node.js/Express backend
 - **Stack:** HTML, CSS, JS, Node.js, Express · Deployed on Render
-
+- The delhi ncr complaint portal is extension of this project 
 ---
 
 ### 🔢 [Projects Collection](https://github.com/Sanchit0307/Sanchit0307-projects-by-using-html-css-javascrip)
@@ -92,8 +92,7 @@
 
 <div align="center">
 
-*Currently grinding through web dev — watch this space 👀*
+*Currently grinding through web dev!
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Sanchit0307.Sanchit0307)
 
 </div>
