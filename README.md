@@ -92,7 +92,7 @@
 
 <div align="center">
 
-*Currently grinding through web dev!
+Currently grinding through web dev!
 
 
 </div>
