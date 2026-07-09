@@ -1,5 +1,5 @@
 <div align="center">
-# Hi, I'm Sanchit Marwah 👋
+ Hi, I'm Sanchit Marwah 👋
  
 B.Tech CSE Student at SRM University, Sonepat · Learning Web Development
  
