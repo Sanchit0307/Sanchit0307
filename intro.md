@@ -38,6 +38,6 @@ B.Tech CSE Student at SRM University, Sonepat · Learning Web Development
 | 🛠️ [CivicFix] | Hackathon project — AI complaint platform with Node.js backend | — |
 | 🔢 [HTML CSS JS Projects](https://github.com/Sanchit0307/Sanchit0307-projects-by-using-html-css-javascript) | Small projects built while learning web dev concepts | — |
  
----
+
 
  
