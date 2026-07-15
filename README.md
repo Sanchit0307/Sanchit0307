@@ -8,7 +8,6 @@ B.Tech CSE Student at SRM University, Sonepat · Learning Web Development
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanchit0307)
  
 </div>
-
  
 ## About Me
  
