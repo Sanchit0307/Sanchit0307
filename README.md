@@ -11,7 +11,7 @@ B.Tech CSE Student at SRM University, Sonepat · Learning Web Development
  
 ## About Me
  
-- 🎓 1st Year B.Tech CSE · SRM University, Sonepat
+- 🎓 2nd Year B.Tech CSE · SRM University, Sonepat
 - 🌐 Learning HTML → CSS → JavaScript 
 - 🏆 Built CivicFix at SRM Builds 7.0 (VERGE 2026) hackathon
 - 📍 New Delhi, India
