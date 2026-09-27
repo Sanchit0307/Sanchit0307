@@ -1,28 +1,35 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=200&section=header&text=Sanchit%20Marwah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=2nd%20Year%20B.Tech%20CSE%20%7C%20SRM%20University%20Sonepat&descAlignY=55&descAlign=50" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanchit+Marwah+👋" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sanchit+Marwah+👋" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-marwah/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sanchitmarwah03@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanchit0307)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanchit0307)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sanchit0307&style=for-the-badge&color=6E56CF)](https://github.com/Sanchit0307)
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🎓 2nd Year B.Tech CSE · SRM University, Sonepat
-- 🌐 Building projects with HTML, CSS, JavaScript & Python
-- 🚀 Learning in public — every concept gets a project
-- 🏆 Built CivicFix at SRM Builds 7.0 (VERGE 2026) hackathon
+- 💻 Building real projects while learning web development
+- 🏆 Participated in SRM Builds 7.0 (VERGE 2026) hackathon
+- 🌱 Currently exploring DSA, DBMS, and full-stack development
 - 📍 New Delhi, India
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
+
+<div align="center">
 
 **Frontend**
 
@@ -41,41 +48,51 @@
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 🚀 Projects
-
-| Project | Description | Demo |
-|---------|-------------|------|
-| 🏛️ [Delhi NCR Complaint Portal](https://github.com/Sanchit0307/delhi-complaint-portal) | AI-powered civic complaint tool for Delhi & NCR citizens | [Live](https://delhicomplaintportal.vercel.app) |
-| 🛠️ [CivicFix](https://github.com/Sanchit0307/civicfix) | Hackathon project — AI complaint platform with Node.js + LLaMA API | — |
-| 🌐 [HTML CSS JS Projects](https://github.com/Sanchit0307/Sanchit0307-projects-by-using-html-css-javascript) | Small projects built while learning web dev concepts | — |
-| 🐍 [Python Projects](https://github.com/Sanchit0307/python-projects) | Small projects built while learning Python | — |
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Projects
 
 <div align="center">
-## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sanchit0307&theme=tokyonight&hide_border=true)
+| 🏷️ Project | 📝 Description | 🔗 |
+|------------|---------------|----|
+| 🏛️ [Delhi NCR Complaint Portal](https://github.com/Sanchit0307/delhi-complaint-portal) | AI-powered civic complaint tool for Delhi & NCR citizens | [Live ↗](https://delhi-complaint-portal.vercel.app/) |
+| 🛠️ [CivicFix](https://github.com/Sanchit0307/civicfix) | Hackathon project — AI complaint platform · SRM Builds 7.0 | — |
+| 🌐 [HTML CSS JS Projects](https://github.com/Sanchit0307/Sanchit0307-projects-by-using-html-css-javascript) | Mini projects built while learning web dev concepts | — |
+| 🐍 [Python Projects](https://github.com/Sanchit0307/python-projects) | Mini projects built while learning Python | — |
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+### 📊 GitHub Stats
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/sanchit-marwah](https://www.linkedin.com/in/sanchit-marwah/) |
-| 📧 Gmail | [Sanchitmarwah03@gmail.com](mailto:Sanchitmarwah03@gmail.com) |
-| 🐙 GitHub | [github.com/Sanchit0307](https://github.com/Sanchit0307) |
+<img src="https://streak-stats.demolab.com?user=Sanchit0307&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit0307&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
 
 </div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-marwah/)
+[![Gmail](https://img.shields.io/badge/Drop%20a%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sanchitmarwah03@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=100&section=footer" />
