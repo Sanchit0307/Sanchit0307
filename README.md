@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=200&section=header&text=Sanchit%20Marwah&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=2nd%20Year%20B.Tech%20CSE%20%7C%20SRM%20University%20Sonepat&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanchit%20Marwah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=2nd%20Year%20B.Tech%20CSE%20%7C%20SRM%20University%20Sonepat&descAlignY=55&descAlign=50" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sanchit+Marwah+👋" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Sanchit+Marwah+👋" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchit-marwah/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sanchitmarwah03@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanchit0307)
-[![Profile Views](https://komarev.com/ghpvc/?username=Sanchit0307&style=for-the-badge&color=6E56CF)](https://github.com/Sanchit0307)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sanchit0307&style=for-the-badge&color=6E56CF&label=PROFILE+VIEWS)](https://github.com/Sanchit0307)
 
 </div>
 
@@ -19,11 +19,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 2nd Year B.Tech CSE · SRM University, Sonepat
-- 💻 Building real projects while learning web development
-- 🏆 Participated in SRM Builds 7.0 (VERGE 2026) hackathon
-- 🌱 Currently exploring DSA, DBMS, and full-stack development
-- 📍 New Delhi, India
+```yaml
+   B.Tech CSE — 2nd Year
+🏫 College  : SRM University, Sonepat
+📍 Location : New Delhi, India
+💻 Focus    : Web Development · DSA · Python
+🌱 Status   : Building and learning every day
+```
 
 ---
 
@@ -55,30 +57,16 @@
 
 ---
 
-### 🚀 Projects
-
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🔗 |
-|------------|---------------|----|
-| 🏛️ [Delhi NCR Complaint Portal](https://github.com/Sanchit0307/delhi-complaint-portal) | AI-powered civic complaint tool for Delhi & NCR citizens | [Live ↗](https://delhi-complaint-portal.vercel.app/) |
-| 🛠️ [CivicFix](https://github.com/Sanchit0307/civicfix) | Hackathon project — AI complaint platform · SRM Builds 7.0 | — |
-| 🌐 [HTML CSS JS Projects](https://github.com/Sanchit0307/Sanchit0307-projects-by-using-html-css-javascript) | Mini projects built while learning web dev concepts | — |
-| 🐍 [Python Projects](https://github.com/Sanchit0307/python-projects) | Mini projects built while learning Python | — |
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sanchit0307&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sanchit0307&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit0307&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchit0307&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=Sanchit0307&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -95,4 +83,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
