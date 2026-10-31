@@ -11,11 +11,9 @@
 I build web projects and learn by doing: every concept I pick up in HTML, CSS, JavaScript or Python gets a small project around it. I'm working my way up from the basics toward full-stack development with React, Node.js and cloud databases, and sharing the journey on GitHub as I go.
 
 <p>
-  <a href="https://github.com/Sanchit0307"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/sanchit-marwah/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Sanchitmarwah03@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sanchit-marwah/"><img src="https://img.shields.io/badge/LinkedIn-ff1e2d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:Sanchitmarwah03@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff1e2d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
 ---
 
 ### Tech Stack
