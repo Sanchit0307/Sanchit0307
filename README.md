@@ -1,4 +1,4 @@
-<a href="https://sanchit0307.github.io/snake/"><img src="./assets/banner.png" width="100%" alt="Sanchit Marwah banner (click to play a game)" /></a>
+<a href="https://sanchit0307.github.io/snake/"><img src="./banner.png" width="100%" alt="Sanchit Marwah banner (click to play a game)" /></a>
 
 <br/>
 
