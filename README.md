@@ -38,7 +38,7 @@ I build web projects and learn by doing: every concept I pick up in HTML, CSS, J
 
 ---
 
-**Now:** Learning DSA and full-stack web development
+**Currently:** Learning DSA and exploring full-stack web development
 
 > Learn a concept. Build something with it.
 
