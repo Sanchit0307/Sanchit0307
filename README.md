@@ -31,7 +31,9 @@ I build web projects and learn by doing: every concept I pick up in HTML, CSS, J
 <img src="https://img.shields.io/badge/Supabase-2a9d6b?style=flat-square&logo=supabase&logoColor=white&labelColor=1a1a2e" /></td></tr>
 <tr><td><b>Tools</b></td><td><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/GitHub-30363d?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e" /></td></tr>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Figma-purple?logo=figma=purple" />
+</td></tr>
 </table>
 
 ---
