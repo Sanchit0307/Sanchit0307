@@ -14,7 +14,6 @@ I build web projects and learn by doing: every concept I pick up in HTML, CSS, J
 <a href="https://www.linkedin.com/in/sanchit-marwah/"><img src="https://img.shields.io/badge/LinkedIn-ff1e2d?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Sanchitmarwah03@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff1e2d?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
----
 
 ### Tech Stack
 
